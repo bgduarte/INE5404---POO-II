@@ -1,0 +1,15 @@
+{
+    "fonte_botoes": {
+        "fonte": "ThaleahFat",
+        "tamanho": 96,
+        "cor": [0, 100, 0]
+    },
+    "cor_fundo": [24, 197, 168],
+    "cor_fundo_titulo": [0, 123, 97],
+    "espacamento": [0, 100],
+    "fonte_titulo": {
+        "fonte": "ThaleahFat",
+        "tamanho": 112,
+        "cor": [0, 100, 0]
+    }
+}

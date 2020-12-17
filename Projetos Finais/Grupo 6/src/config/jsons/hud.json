@@ -1,0 +1,16 @@
+{
+    "quantidade_slots": 6,
+    "posicao_slot": [20, 20],
+    "tamanho_slot" : [32, 32],
+    "espacamento_slots": 10,
+    "cor_slot": [0, 0, 0],
+    "espacamento_cursor": 10,
+    "tamanho_cursor": [32, 10],
+    "cor_cursor": [255, 0, 0],
+    "fonte_itens": {"fonte": "Helvetic",
+                    "tamanho": 8},
+    "fonte_tempo": {"fonte": "ThaleahFat",
+                    "tamanho": 32,
+                    "cor": [255, 255, 255]},
+    "posicao_tempo": [1100, 20]
+}

@@ -1,0 +1,23 @@
+{
+    "tamanho_janela": {"width": 1280,
+                       "height": 720},
+    "fonte_titulo": {"fonte": "ThaleahFat",
+                     "tamanho": 64},
+    "fonte_botoes": {"fonte": "ThaleahFat",
+                     "tamanho": 24},
+    "tamanho_botoes": {"width": 600,
+                       "height": 90},
+    "stylesheet": "TituloJanela { color: darkgreen; } BotaoPadrao { color: darkgreen; background-color: #18C5A8; border-style: outset; border-radius: 45px; border-width: 3px; border-color: #14AE12; padding: 3px; } BotaoPadrao:hover { background-color: #2CD9BC; border-color: #28C226; } BotaoPadrao:pressed { background-color: #007B61; border-color: #009A00; } InputJogador { color: darkgreen; background-color: #18C5A8; border-radius: 12px; } ScrollableLeaderboard { color: darkgreen; background-color: #18C5A8; border-style: outset; border-radius: 20px; border-width: 5px; border-color: #14AE12; } ScrollableLeaderboard:hover { color: darkgreen; background-color: #18C5A8 }",
+    "tamanho_fases" : {"width": 400,
+                       "height": 225},
+    "tamanho_leaderboard": {"width": 960,
+                            "height": 450},
+    "fonte_leaderboard": {"fonte": "ThaleahFat",
+                          "tamanho": 18},
+    "fonte_input_jogador": {"fonte": "ThaleahFat",
+                            "tamanho": 14},
+    "tamanho_input_jogador": {"width": 400,
+                              "height": 25},
+    "fonte_botoes_fase": {"fonte": "ThaleahFat",
+                          "tamanho": 32}
+}
